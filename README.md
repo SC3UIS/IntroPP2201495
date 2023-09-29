@@ -42,4 +42,5 @@ Para correr el ejecutable anteriormente creado se corre el siguiente comando:
   
 Con esto podemos ver el resultado de la ejecucion de el codigo de multiplicacion de matrices.
 
-Si se desea altera el tamaño de las matrices, se debe modificar en el codigo en el editor de texto vim.
+A comparación de la versión anterior de la multiplicaión de matrices, esta permite escoger el tamaño de las matrices sin tener que modificar desde el editor de texto *vim* y muestra cuanto tiempo se demora en realizar la operacion matematica entre matrices
+
